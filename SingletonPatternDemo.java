@@ -10,6 +10,7 @@ public class SingletonPatternDemo {
 		obj.setCode(456);
 		System.out.println(obj.getCode());
 		System.out.println("hello hi");
+		System.out.println("hello hiiiiiii");
  
 	}
 
